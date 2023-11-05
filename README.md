@@ -1,5 +1,9 @@
 # Use Google Sheets as a REST API
 
+This is Google Apps Script Library that provides REST API endpoint for Google Sheets.
+
+[日本語での説明](https://qiita.com/goofmint/items/cb1a7798fdacd3ea012c)
+
 ## Set up
 
 ### 1. Create a new Google Sheet
